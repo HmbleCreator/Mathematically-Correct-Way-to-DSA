@@ -1,3 +1,5 @@
+## It will be Renamed Mathematical Story Book for Problem Solving(also DSA)
+
 The most rigorous, mathematical way to learn Data Structures and Algorithms is to strip away the "code" and view every problem as a formal mathematical system. Instead of asking "What data structure do I use?", you ask, "What are the mathematical properties of this data, and what transformations preserve those properties?"
 
 When you approach DSA from this angle, it stops looking like a collection of coding tricks and starts looking a lot like the geometric interpretability of embeddings or the logic behind graph-based retrieval engines.
